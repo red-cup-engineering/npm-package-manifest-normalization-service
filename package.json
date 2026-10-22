@@ -33,5 +33,9 @@
     "check": "check-package-syntax",
     "test": "run-package-tests",
     "pack:dry-run": "npm pack --dry-run --ignore-scripts"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
